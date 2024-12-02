@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AkramBl01.AkramBl01" />
+<img align="right" src="https://visitcount.itsvg.in/api?id=AkramBl01&icon=0&color=1" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Akram+Ibnelyazyd!;" />
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/akram_bl_10/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -32,20 +32,18 @@
 </div>
 
 <br/>
-</hr>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkramBl1&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 <hr/>
 
 ## 📊 GitHub Stats 
 <div align=center>
   <img width=384 src="https://github-readme-stats.vercel.app/api?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="streak stats"/>
-  <img width=384 src="https://github-readme-streak-stats.herokuapp.com/?user=AkramBl01&theme=react&hide_border=true" alt="readme stats" />
+  <img width=384 src="https://github-readme-streak-stats.herokuapp.com/?user=AkramBl01&theme=react&hide_border=true" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
 
 
 <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AkramBl01&theme=react&hide_border=false)<br/>
+
