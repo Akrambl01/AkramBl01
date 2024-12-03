@@ -5,11 +5,16 @@
 </h1>
 
 <h3 align="center" > A Full-stack Developer Student from Morocco 🇲🇦 </h3>
-<div align="center">  
+<div align="center">
+    
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6579bc7f5145316d25fa9a78?variant=dark&roadmaps=javascript%2Csql%2C65fe1c806deb533d6e1512de)](https://roadmap.sh)
+
 </div>
 
+<div align="center">
+    
 <img align="center" src="https://www.codewars.com/users/AkramBl1/badges/large" width="500">
+</div>
 
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
