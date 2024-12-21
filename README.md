@@ -48,6 +48,14 @@
   <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
 
+<div style="text-align: center;">
+    <div style="display: inline-block;">
+        <picture>
+            <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Noonedev1&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="Nooneedv1's stats"/>
+        </picture>
+    </div>
+</div>
+
 <br/> <br/>
 <div align="center">
 <a href="https://git.io/typing-svg"  align="center" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
