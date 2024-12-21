@@ -46,16 +46,14 @@
 <div align=center>
   <img width=340 src="https://github-readme-stats.vercel.app/api?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="streak stats"/>
   <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
-</div>
-
-<br/>
-
-<div style="text-align: center;">
+    <br/>
+    <div style="text-align: center;">
     <div style="display: inline-block;">
         <picture>
             <img align="center"  width=700  src="https://github-readme-activity-graph.vercel.app/graph?username=AkramBl01&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Monthly%20Contribution%20Overview%20Across%20All%20Repositories" alt="AkramBl01's stats"/>
         </picture>
     </div>
+</div>
 </div>
 
 <br/> <br/>
