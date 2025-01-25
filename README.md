@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
-<img align="right" src="https://visitcount.itsvg.in/api?id=AkramBl01&icon=0&color=1" />
+<!-- <img align="right" src="https://visitcount.itsvg.in/api?id=AkramBl01&icon=0&color=1" /> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Akram+Ibnelyazyd!;" />
 </h1>
 
-<h3 align="center" > A Full-stack Developer Student from Morocco 🇲🇦 </h3>
+<h3 align="center" > A Full-stack Developer Student </h3>
 <div align="center">
     
 <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6579bc7f5145316d25fa9a78?variant=dark&roadmaps=javascript%2Csql%2C65fe1c806deb533d6e1512de)](https://roadmap.sh) -->
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,tailwind,sass,php,python,mysql,github,figma,git,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,tailwind,sass,php,laravel,python,mysql,figma,git,notion" /><br>
 </div>
 
 <br/>
