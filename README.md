@@ -45,7 +45,7 @@
 <h2 align="center">📊 GitHub Stats </h2>
 <div align=center>
   <img width=340 src="https://github-readme-stats.vercel.app/api?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="streak stats"/>
-<!--   <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" /> -->
+  <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramBl01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" /> 
     <br/>
     <div style="text-align: center;">
     <div style="display: inline-block;">
