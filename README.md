@@ -34,11 +34,12 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
 
-| Languages & Frameworks | Tools |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,tailwind,sass,php,laravel,python,mysql" /> | <img src="https://skillicons.dev/icons?i=git,figma,notion,vscode,linux" /> |
+| Languages | Frameworks | Tools | Other Technologies |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,laravel,nodejs,express,mongoose" /> | <img src="https://skillicons.dev/icons?i=git,figma,notion,vscode,postman" /> | <img src="https://skillicons.dev/icons?i=supabase,redis,npm" /> |
 
 </div>
 
