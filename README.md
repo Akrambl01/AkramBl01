@@ -37,13 +37,9 @@
 
 <div align="center">
 
-| Languages | Frameworks |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,laravel,nodejs,express,mongoose" /> |
-
-| Tools | Other Technologies |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=git,figma,notion,vscode,postman" /> | <img src="https://skillicons.dev/icons?i=supabase,redis,npm" /> |
+| Languages | Frameworks | Tools | Other Technologies |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass,laravel,nodejs,express,mongoose" /> | <img src="https://skillicons.dev/icons?i=git,figma,notion,vscode,postman" /> | <img src="https://skillicons.dev/icons?i=supabase,redis,npm" /> |
 
 </div>
 
